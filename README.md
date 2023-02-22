@@ -1,5 +1,9 @@
 <h1>Hi, I'm Warren! <br/><a <a href="https://www.linkedin.com/in/warren-wilson72/">Cybersecurity Professional</a></h1>
 
+<h2>Certifications</h2>
+
+- [CompTIA iT Fundamentals+](https://www.credly.com/badges/8498991e-21d4-4172-bcd4-ea10b0cb7207)
+
 <h2>Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
