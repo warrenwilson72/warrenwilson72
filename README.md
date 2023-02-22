@@ -1,4 +1,4 @@
-<h1>Hi, I'm Warren! <br/><a <a href="https://www.linkedin.com/in/warren-wilson72/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Warren! <br/><a <a href="https://www.linkedin.com/in/warren-wilson72/">Aspiring Junior Cybersecurity Analyst</a></h1>
 
 <h2>Cybersecurity Projects:</h2>
 
