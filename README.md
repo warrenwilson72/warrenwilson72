@@ -24,7 +24,7 @@
 
 <h2>I'm Currently Studying for</h2>
 
--CompTIA Security+
+- CompTIA Security+
 
 <h2>Connect with me:</h2>
 
